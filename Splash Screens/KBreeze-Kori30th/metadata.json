@@ -11,7 +11,7 @@
         "Description": "Modified version of the breeze splash screen for KDE's 30th anniversary with Kori",
         "Id": "KBreeze-Kori30th",
         "License": "GPLv3",
-        "Name": "KBreeze-Konqi30th",
+        "Name": "KBreeze-Kori30th",
         "Website": "https://github.com/jclay205",
         "Keywords": "Desktop;Workspace;Appearance;Look And Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
         "X-Plasma-APIVersion": "2"
