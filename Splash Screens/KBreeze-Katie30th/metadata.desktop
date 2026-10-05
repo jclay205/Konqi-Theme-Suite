@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel/Splash",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "jordanclaytor2@gmail.com",
+                "Name": "jclay205 [Modified], KDE Vizual Design Group [Original]"
+            }
+        ],
+        "Category": "Splash Screen",
+        "Description": "Modified version of the breeze splash screen for KDE's 30th anniversary with Katie",
+        "Id": "KBreeze-Konqi30th",
+        "License": "GPLv3",
+        "Name": "KBreeze-Konqi30th",
+        "Website": "https://github.com/jclay205",
+        "Keywords": "Desktop;Workspace;Appearance;Look And Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+        "X-Plasma-APIVersion": "2"
+    }
+}
