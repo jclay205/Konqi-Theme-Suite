@@ -3,6 +3,7 @@ A theming collection with KDE's mascot Konqi. Right now only splash screens are 
 
 Install:
 Select a splash screen and add to ./local/share/plasma/look-and-feel then go to System Settings > Colors and Themes > Splash Screen and it should show up.
+
 Credits: 
 Splash Screen (Breeze) came from this repository: https://github.com/KDE/plasma-workspace/tree/master/lookandfeel/org.kde.breeze/contents/splash
 
