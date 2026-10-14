@@ -28,7 +28,7 @@ Rectangle {
         anchors.fill: parent
         opacity: 0
 
-        // Main horizontal arrangement container (Konqi Left | Line | Plasma Right)
+        // Main horizontal arrangement container (Kori Left | Line | Plasma Right)
         Row {
             id: mainRow
             anchors.centerIn: parent
